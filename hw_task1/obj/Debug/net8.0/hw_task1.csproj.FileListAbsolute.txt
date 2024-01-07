@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\obj\Debug\net8.0\hw_task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\obj\Debug\net8.0\hw_task1.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\obj\Debug\net8.0\hw_task1.AssemblyInfo.cs
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\obj\Debug\net8.0\hw_task1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\bin\Debug\net8.0\hw_task1.exe
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\bin\Debug\net8.0\hw_task1.deps.json
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\bin\Debug\net8.0\hw_task1.runtimeconfig.json
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\bin\Debug\net8.0\hw_task1.dll
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\bin\Debug\net8.0\hw_task1.pdb
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\obj\Debug\net8.0\hw_task1.dll
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\obj\Debug\net8.0\refint\hw_task1.dll
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\obj\Debug\net8.0\hw_task1.pdb
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\obj\Debug\net8.0\hw_task1.genruntimeconfig.cache
+C:\Users\1\Desktop\rest\gb\C#\seminar2\hw_task1\obj\Debug\net8.0\ref\hw_task1.dll
