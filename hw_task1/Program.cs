@@ -2,7 +2,6 @@
 // Даны два неотрицательных числа m и n.
 
 
-using System.Reflection.Emit;
 
 int Ackerman_Func(int n, int m)
 {
